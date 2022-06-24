@@ -1,0 +1,16 @@
+
+@Article{s22134751,
+AUTHOR = {Nguyen, Toan-Khoa and Nguyen, Phuc Thanh-Thien and Nguyen, Dai-Dong and Kuo, Chung-Hsien},
+TITLE = {Effective Free-Driving Region Detection for Mobile Robots by Uncertainty Estimation Using RGB-D Data},
+JOURNAL = {Sensors},
+VOLUME = {22},
+YEAR = {2022},
+NUMBER = {13},
+ARTICLE-NUMBER = {4751},
+URL = {https://www.mdpi.com/1424-8220/22/13/4751},
+ISSN = {1424-8220},
+DOI = {10.3390/s22134751}
+}
+
+
+
